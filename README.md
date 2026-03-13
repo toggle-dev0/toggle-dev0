@@ -23,7 +23,6 @@ I’m passionate about breaking complex ideas into **structured, practical solut
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
 </p>
 
 ### Backend
@@ -36,14 +35,12 @@ I’m passionate about breaking complex ideas into **structured, practical solut
 ### Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
 
 ### Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40"/>
 </p>
 
 ---
@@ -56,10 +53,6 @@ I’m passionate about breaking complex ideas into **structured, practical solut
 
 ---
 
-# 🧩 Developer Philosophy
-
-> "Complex problems become manageable when you design the right system."
-
 I enjoy:
 - Structuring messy ideas
 - Building reusable solutions
@@ -68,21 +61,9 @@ I enjoy:
 
 ---
 
-# 📈 GitHub Stats
-
-![Munachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toggle-dev0&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
 # 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toggle-dev0&layout=compact&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toggle-dev0&theme=tokyo-night&count_private=true)
 
 ---
 
